@@ -20,7 +20,7 @@ export const data = [
         answer:0
     }, 
     {
-        question:"¿Es considerado el padre de la historia?", 
+        question:"¿Quién es considerado el padre de la historia?", 
         choices:["Cicéron","Homero", "Socrátes", "Heródoto"],
         answer:3
     }
