@@ -11,4 +11,4 @@ Principalmente se ha implementado:
 - Documentación del códico con JSDocs 
 
 ### Vista:
-![Quiz](/assets/img/captura-app.png)
+![Quiz](assets/img/captura-app.png)
