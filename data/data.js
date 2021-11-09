@@ -42,7 +42,8 @@ export const data = [
     }, 
     {
         question:"Período en el que el hombre pasa del nomadismo al sedentarismo", 
-        choices:["La Edad Moderna", "El Paleolítico", "El Neolítico", "El medioevo"]
+        choices:["La Edad Moderna", "El Paleolítico", "El Neolítico", "El medioevo"], 
+        answer:2
     },
     {
         question:"Estudia el pasado relevante de la humanidad", 
